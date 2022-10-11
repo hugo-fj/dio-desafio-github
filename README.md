@@ -2,9 +2,7 @@
 
 ## Links Úteis
 
-[DIO](https://www.dio.me/)
-
-[GIT](https://git-scm.com/)
+| [DIO](https://www.dio.me/) | | [GIT](https://git-scm.com/) |
 
 [GITHUB](https://github.com/)
 
