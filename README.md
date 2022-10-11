@@ -2,14 +2,9 @@
 
 ## Links Úteis
 
-| :---        |    :----:   |          ---: |
-| [DIO](https://www.dio.me/)    | [GIT](https://git-scm.com/)       | 
-| [GITHUB](https://github.com/)   | [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)        | 
-
-| [DIO](https://www.dio.me/) | | [GIT](https://git-scm.com/) |
-
+[DIO](https://www.dio.me/) 
+[GIT](https://git-scm.com/) 
 [GITHUB](https://github.com/)
-
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
