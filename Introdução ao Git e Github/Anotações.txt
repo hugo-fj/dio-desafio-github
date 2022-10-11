@@ -11,5 +11,14 @@ git add .
 3.Registra os arquivos
 git commit -m "mensagem de indentificação do commit"
 
+4.Verifica status
+git status
+
+5.Indicar o repositório github para o envio dos projetos/arquivos
+git remote add origin <link_repositório>
+
+6.Enviar 
+git push origin main
+
 
 
