@@ -2,13 +2,13 @@
 
 ## Links Úteis
 
-[DIO](https://www.dio.me/)
+1.[DIO](https://www.dio.me/)
 
-[GIT](https://git-scm.com/)
+2.[GIT](https://git-scm.com/)
 
-[GITHUB](https://github.com/)
+3.[GITHUB](https://github.com/)
 
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+4.[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
 ![Img git/github](https://www.freecodecamp.org/news/content/images/size/w2000/2022/07/git-github.png)
