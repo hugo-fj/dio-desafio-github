@@ -2,3 +2,14 @@ Curso introdutório sobre a tecnologia de versionamento de códigos(Git/Github).
 
 Abrangendo a instalação e alguns comandos básicos.
 
+1.Criando/iniciado projeto local
+git init
+
+2.Adicionado arquivos localmente ao sistema de versionamento
+git add .
+
+3.Registra os arquivos
+git commit -m "mensagem de indentificação do commit"
+
+
+
