@@ -1,0 +1,4 @@
+Curso introdutório sobre a tecnologia de versionamento de códigos(Git/Github).
+
+Abrangendo a instalação e alguns comandos básicos.
+
