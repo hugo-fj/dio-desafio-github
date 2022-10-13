@@ -1,5 +1,8 @@
 # Repositório desafio de projeto sobre Git/GitHub - DIO
 
+Repositório referente a uso do Git/GitHub proposto em curso - 
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso 
+
 ## Links Úteis
 
 [DIO](https://www.dio.me/) 
